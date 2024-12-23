@@ -20,7 +20,7 @@ This Privacy Policy governs the collection, use, and sharing of personal informa
 > We take reasonable measures to protect your information from unauthorized access, alteration, or destruction. However, no security measure is perfect, and we cannot guarantee the security of your information.
 
 6. Changes to this Policy
-> We may update this Privacy Policy from time to time, and we will post the updated policy on our website. Your continued use of [Bot Name] after we make changes to this policy indicates your acceptance of the revised policy.
+> We may update this Privacy Policy from time to time, and we will post the updated policy on our website. Your continued use of [새참이.ts] [SaeCham.ts] after we make changes to this policy indicates your acceptance of the revised policy.
 
 Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at [Nightsky5070@gmail.com] or LukeNightstar on Discord.
