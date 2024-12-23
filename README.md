@@ -23,7 +23,7 @@ This Privacy Policy governs the collection, use, and sharing of personal informa
 > We may update this Privacy Policy from time to time, and we will post the updated policy on our website. Your continued use of [새참이.ts] [SaeCham.ts] after we make changes to this policy indicates your acceptance of the revised policy.
 
 Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at [Nightsky5070@gmail.com] or LukeNightstar on Discord.
+> If you have any questions or concerns about this Privacy Policy, please contact us at [Nightsky5070@gmail.com] or LukeNightstar on Discord.
 
 Effective Date
-This Privacy Policy is effective as of [2024.01.01].
+>This Privacy Policy is effective as of [2024.01.01].
