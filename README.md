@@ -26,4 +26,4 @@ Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at [Nightsky5070@gmail.com] or LukeNightstar on Discord.
 
 Effective Date
-This Privacy Policy is effective as of [Effective Date].
+This Privacy Policy is effective as of [2024.01.01].
